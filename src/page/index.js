@@ -633,6 +633,10 @@ function Page() {
                 <span className="infor-icon">duyenduyen8301@gmail.com</span>
               </div>
               <div className="my-infor">
+                <PhoneOutlined />
+                <span className="infor-icon">035 394 9741</span>
+              </div>
+              <div className="my-infor">
                 <FacebookOutlined />
                 <a
                   href="https://www.facebook.com/corn.8.3/"
